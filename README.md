@@ -1,1 +1,1 @@
-# Diabetes
+This project demonstrates the application of various classification algorithms in predicting diabetes, with performance metrics indicating the effectiveness of each model. The use of stratified K-Fold and hyperparameter tuning ensures robust and reliable model evaluation.
